@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:tessera="https://www.bimover.ch/xmlns/tessera">
+   <channel>
+      <title>Tessera</title>
+      <link>https://www.bimover.ch/updates/tessera/appcast.xml</link>
+      <description>Update feed for the Tessera Archicad add-on</description>
+      <language>de</language>
+      <item>
+         <title>Tessera 1.0.0 (macOS, Archicad 28, 29, 30)</title>
+         <pubDate>Fri, 23 Oct 2026 21:11:24 -0000</pubDate>
+         <enclosure url="https://github.com/bimover/Tessera/releases/download/v1.0.0/Tessera-1.0.0-mac-AC28-29-30.zip"
+                    sparkle:version="1.0.0" sparkle:os="macos"
+                    tessera:acVersions="28 29 30"
+                    length="14551378" type="application/octet-stream"/>
+      </item>
+   </channel>
+</rss>
